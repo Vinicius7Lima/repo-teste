@@ -1,0 +1,28 @@
+	Componentes Curriculares
+Módulo I
+	Informática Básica - Não Iniciada
+	Legislação aplicada a construção civil - Ativa
+	Materiais de construção - Ativa
+	Mecânica dos solos - Ativa
+	Resistência dos materiais e estabilidade das construções - Não
+	Sociologia do Trabalho - Não iniciada
+
+Módulo II
+	Desenho Técnico
+	Topografia
+	Projeto de arquitetura informatizado
+	Projeto Estrutural
+	Projeto de instalações Elétricas
+	Projeto de instalações Hidrossanitárias e gás
+
+	Estágio Supervisionado
+
+Módulo III
+	Higiene e Segurança no Trabalho
+	Apropriação e orçamento de obras
+	Gerenciamento de projetos
+	Tecnologias construtivas de vedação, cobertura e acabamento
+	Patologia das construções
+	Empreendedorismo
+
+	Carga horária de estágio supervisionado 
